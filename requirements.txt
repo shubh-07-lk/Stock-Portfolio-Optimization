@@ -1,0 +1,23 @@
+# Core Data Science Libraries
+numpy
+pandas
+matplotlib
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP & Sentiment Analysis
+nltk
+textblob
+
+# Optional: For downloading NLTK corpora (run in script if not found)
+# import nltk
+# nltk.download('punkt')
+# nltk.download('vader_lexicon')
+
+# Jupyter Notebook
+notebook
+
+# For saving/loading models
+h5py
