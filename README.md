@@ -26,7 +26,7 @@ This repository contains an LSTM (Long Short-Term Memory) based model to predict
 
 ### 1. Clone the Repository
 ```bash
-https://github.com/your-username/stock-portfolio-optimization.git
+https://github.com/shubh-07-lk/stock-portfolio-optimization.git
 cd stock-portfolio-optimization
 ```
 
